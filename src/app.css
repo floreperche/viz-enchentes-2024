@@ -1,15 +1,40 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import 'tailwindcss';
+
+.source-sans-3-regular {
+	font-family: 'Source Sans 3', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
 }
 
-html, body {
+.source-sans-3-semibold {
+	font-family: 'Source Sans 3', sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 600;
+	font-style: normal;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
 	width: 100%;
-  height: 100%;
+	height: 100%;
 }
 
 #app {
-  width: 100%;
-  height: 100%;
+	width: 100%;
+	height: 100%;
+}
+
+@theme {
+	--font-mansalva: 'Mansalva', sans-serif;
+	--font-sourcesans: 'Source Sans 3', sans-serif;
+	--color-primary: #cc655c;
+	--color-secondary: #4626a3;
 }

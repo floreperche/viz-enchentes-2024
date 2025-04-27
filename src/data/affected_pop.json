@@ -1,0 +1,3481 @@
+[
+	{
+		"id": 430003,
+		"city": "Aceguá",
+		"status": "Emergência",
+		"affected_pop": 1,
+		"total_pop": 4170
+	},
+	{
+		"id": 430005,
+		"city": "Água Santa",
+		"status": "Não Homologado",
+		"affected_pop": 8,
+		"total_pop": 3912
+	},
+	{
+		"id": 430010,
+		"city": "Agudo",
+		"status": "Calamidade",
+		"affected_pop": 1705,
+		"total_pop": 16041
+	},
+	{
+		"id": 430020,
+		"city": "Ajuricaba",
+		"status": "Emergência",
+		"affected_pop": 12,
+		"total_pop": 6720
+	},
+	{
+		"id": 430030,
+		"city": "Alecrim",
+		"status": "Emergência",
+		"affected_pop": 1,
+		"total_pop": 6123
+	},
+	{
+		"id": 430040,
+		"city": "Alegrete",
+		"status": "Emergência",
+		"affected_pop": 345,
+		"total_pop": 72409
+	},
+	{
+		"id": 430045,
+		"city": "Alegria",
+		"status": "Emergência",
+		"affected_pop": 11,
+		"total_pop": 3651
+	},
+	{
+		"id": 430047,
+		"city": "Almirante Tamandaré do Sul",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1969
+	},
+	{
+		"id": 430050,
+		"city": "Alpestre",
+		"status": "Emergência",
+		"affected_pop": 53,
+		"total_pop": 7117
+	},
+	{
+		"id": 430055,
+		"city": "Alto Alegre",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 1800
+	},
+	{
+		"id": 430057,
+		"city": "Alto Feliz",
+		"status": "Emergência",
+		"affected_pop": 35,
+		"total_pop": 3072
+	},
+	{
+		"id": 430060,
+		"city": "Alvorada",
+		"status": "Calamidade",
+		"affected_pop": 25825,
+		"total_pop": 187315
+	},
+	{
+		"id": 430063,
+		"city": "Amaral Ferrador",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 5310
+	},
+	{
+		"id": 430064,
+		"city": "Ametista do Sul",
+		"status": "Emergência",
+		"affected_pop": 5,
+		"total_pop": 7650
+	},
+	{
+		"id": 430066,
+		"city": "André da Rocha",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1135
+	},
+	{
+		"id": 430070,
+		"city": "Anta Gorda",
+		"status": "Emergência",
+		"affected_pop": 1325,
+		"total_pop": 5957
+	},
+	{
+		"id": 430080,
+		"city": "Antônio Prado",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 13045
+	},
+	{
+		"id": 430085,
+		"city": "Arambaré",
+		"status": "Calamidade",
+		"affected_pop": 2134,
+		"total_pop": 4112
+	},
+	{
+		"id": 430087,
+		"city": "Araricá",
+		"status": "Emergência",
+		"affected_pop": 110,
+		"total_pop": 8525
+	},
+	{
+		"id": 430090,
+		"city": "Aratiba",
+		"status": "Emergência",
+		"affected_pop": 22,
+		"total_pop": 6483
+	},
+	{
+		"id": 430100,
+		"city": "Arroio do Meio",
+		"status": "Calamidade",
+		"affected_pop": 10577,
+		"total_pop": 21958
+	},
+	{
+		"id": 430105,
+		"city": "Arroio do Sal",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 11057
+	},
+	{
+		"id": 430107,
+		"city": "Arroio do Padre",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2599
+	},
+	{
+		"id": 430110,
+		"city": "Arroio dos Ratos",
+		"status": "Emergência",
+		"affected_pop": 1483,
+		"total_pop": 14601
+	},
+	{
+		"id": 430120,
+		"city": "Arroio do Tigre",
+		"status": "Calamidade",
+		"affected_pop": 2310,
+		"total_pop": 12058
+	},
+	{
+		"id": 430130,
+		"city": "Arroio Grande",
+		"status": "Emergência",
+		"affected_pop": 502,
+		"total_pop": 17558
+	},
+	{
+		"id": 430140,
+		"city": "Arvorezinha",
+		"status": "Emergência",
+		"affected_pop": 94,
+		"total_pop": 10322
+	},
+	{
+		"id": 430150,
+		"city": "Augusto Pestana",
+		"status": "Emergência",
+		"affected_pop": 29,
+		"total_pop": 7149
+	},
+	{
+		"id": 430155,
+		"city": "Áurea",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3396
+	},
+	{
+		"id": 430160,
+		"city": "Bagé",
+		"status": "Emergência",
+		"affected_pop": 1,
+		"total_pop": 117938
+	},
+	{
+		"id": 430163,
+		"city": "Balneário Pinhal",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 14955
+	},
+	{
+		"id": 430165,
+		"city": "Barão",
+		"status": "Emergência",
+		"affected_pop": 65,
+		"total_pop": 6461
+	},
+	{
+		"id": 430170,
+		"city": "Barão de Cotegipe",
+		"status": "Emergência",
+		"affected_pop": 316,
+		"total_pop": 7144
+	},
+	{
+		"id": 430175,
+		"city": "Barão do Triunfo",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5889
+	},
+	{
+		"id": 430180,
+		"city": "Barracão",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 4831
+	},
+	{
+		"id": 430185,
+		"city": "Barra do Guarita",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3161
+	},
+	{
+		"id": 430187,
+		"city": "Barra do Quaraí",
+		"status": "Não Homologado",
+		"affected_pop": 66,
+		"total_pop": 4241
+	},
+	{
+		"id": 430190,
+		"city": "Barra do Ribeiro",
+		"status": "Emergência",
+		"affected_pop": 1776,
+		"total_pop": 12225
+	},
+	{
+		"id": 430192,
+		"city": "Barra do Rio Azul",
+		"status": "Calamidade",
+		"affected_pop": 239,
+		"total_pop": 1696
+	},
+	{
+		"id": 430195,
+		"city": "Barra Funda",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 2498
+	},
+	{
+		"id": 430200,
+		"city": "Barros Cassal",
+		"status": "Emergência",
+		"affected_pop": 43,
+		"total_pop": 9296
+	},
+	{
+		"id": 430205,
+		"city": "Benjamin Constant do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2082
+	},
+	{
+		"id": 430210,
+		"city": "Bento Gonçalves",
+		"status": "Calamidade",
+		"affected_pop": 523,
+		"total_pop": 123151
+	},
+	{
+		"id": 430215,
+		"city": "Boa Vista das Missões",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1933
+	},
+	{
+		"id": 430220,
+		"city": "Boa Vista do Buricá",
+		"status": "Não Homologado",
+		"affected_pop": 17,
+		"total_pop": 6966
+	},
+	{
+		"id": 430222,
+		"city": "Boa Vista do Cadeado",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2229
+	},
+	{
+		"id": 430223,
+		"city": "Boa Vista do Incra",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2271
+	},
+	{
+		"id": 430225,
+		"city": "Boa Vista do Sul",
+		"status": "Emergência",
+		"affected_pop": 112,
+		"total_pop": 2779
+	},
+	{
+		"id": 430230,
+		"city": "Bom Jesus",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 11202
+	},
+	{
+		"id": 430235,
+		"city": "Bom Princípio",
+		"status": "Calamidade",
+		"affected_pop": 1760,
+		"total_pop": 13142
+	},
+	{
+		"id": 430237,
+		"city": "Bom Progresso",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2096
+	},
+	{
+		"id": 430240,
+		"city": "Bom Retiro do Sul",
+		"status": "Calamidade",
+		"affected_pop": 1081,
+		"total_pop": 12294
+	},
+	{
+		"id": 430245,
+		"city": "Boqueirão do Leão",
+		"status": "Emergência",
+		"affected_pop": 587,
+		"total_pop": 6247
+	},
+	{
+		"id": 430250,
+		"city": "Bossoroca",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5890
+	},
+	{
+		"id": 430258,
+		"city": "Bozano",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 2151
+	},
+	{
+		"id": 430260,
+		"city": "Braga",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3268
+	},
+	{
+		"id": 430265,
+		"city": "Brochier",
+		"status": "Emergência",
+		"affected_pop": 174,
+		"total_pop": 4966
+	},
+	{
+		"id": 430270,
+		"city": "Butiá",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 19084
+	},
+	{
+		"id": 430280,
+		"city": "Caçapava do Sul",
+		"status": "Emergência",
+		"affected_pop": 12,
+		"total_pop": 32515
+	},
+	{
+		"id": 430290,
+		"city": "Cacequi",
+		"status": "Emergência",
+		"affected_pop": 403,
+		"total_pop": 11157
+	},
+	{
+		"id": 430300,
+		"city": "Cachoeira do Sul",
+		"status": "Calamidade",
+		"affected_pop": 5505,
+		"total_pop": 80070
+	},
+	{
+		"id": 430310,
+		"city": "Cachoeirinha",
+		"status": "Calamidade",
+		"affected_pop": 12352,
+		"total_pop": 136258
+	},
+	{
+		"id": 430320,
+		"city": "Cacique Doble",
+		"status": "Emergência",
+		"affected_pop": 43,
+		"total_pop": 4603
+	},
+	{
+		"id": 430330,
+		"city": "Caibaté",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4704
+	},
+	{
+		"id": 430340,
+		"city": "Caiçara",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 4836
+	},
+	{
+		"id": 430350,
+		"city": "Camaquã",
+		"status": "Emergência",
+		"affected_pop": 218,
+		"total_pop": 62200
+	},
+	{
+		"id": 430355,
+		"city": "Camargo",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2981
+	},
+	{
+		"id": 430360,
+		"city": "Cambará do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6361
+	},
+	{
+		"id": 430367,
+		"city": "Campestre da Serra",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3242
+	},
+	{
+		"id": 430370,
+		"city": "Campina das Missões",
+		"status": "Não Homologado",
+		"affected_pop": 2,
+		"total_pop": 5882
+	},
+	{
+		"id": 430380,
+		"city": "Campinas do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5284
+	},
+	{
+		"id": 430390,
+		"city": "Campo Bom",
+		"status": "Calamidade",
+		"affected_pop": 4686,
+		"total_pop": 62886
+	},
+	{
+		"id": 430400,
+		"city": "Campo Novo",
+		"status": "Não Homologado",
+		"affected_pop": 2,
+		"total_pop": 4975
+	},
+	{
+		"id": 430410,
+		"city": "Campos Borges",
+		"status": "Emergência",
+		"affected_pop": 134,
+		"total_pop": 3613
+	},
+	{
+		"id": 430420,
+		"city": "Candelária",
+		"status": "Calamidade",
+		"affected_pop": 4829,
+		"total_pop": 28906
+	},
+	{
+		"id": 430430,
+		"city": "Cândido Godói",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6294
+	},
+	{
+		"id": 430435,
+		"city": "Candiota",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 10710
+	},
+	{
+		"id": 430440,
+		"city": "Canela",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 48946
+	},
+	{
+		"id": 430450,
+		"city": "Canguçu",
+		"status": "Emergência",
+		"affected_pop": 89,
+		"total_pop": 49680
+	},
+	{
+		"id": 430460,
+		"city": "Canoas",
+		"status": "Calamidade",
+		"affected_pop": 157829,
+		"total_pop": 347657
+	},
+	{
+		"id": 430461,
+		"city": "Canudos do Vale",
+		"status": "Calamidade",
+		"affected_pop": 559,
+		"total_pop": 1656
+	},
+	{
+		"id": 430462,
+		"city": "Capão Bonito do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1733
+	},
+	{
+		"id": 430463,
+		"city": "Capão da Canoa",
+		"status": "Não Homologado",
+		"affected_pop": 26,
+		"total_pop": 63594
+	},
+	{
+		"id": 430465,
+		"city": "Capão do Cipó",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3119
+	},
+	{
+		"id": 430466,
+		"city": "Capão do Leão",
+		"status": "Emergência",
+		"affected_pop": 14,
+		"total_pop": 26487
+	},
+	{
+		"id": 430467,
+		"city": "Capivari do Sul",
+		"status": "Emergência",
+		"affected_pop": 55,
+		"total_pop": 3991
+	},
+	{
+		"id": 430468,
+		"city": "Capela de Santana",
+		"status": "Emergência",
+		"affected_pop": 245,
+		"total_pop": 11159
+	},
+	{
+		"id": 430469,
+		"city": "Capitão",
+		"status": "Emergência",
+		"affected_pop": 28,
+		"total_pop": 2921
+	},
+	{
+		"id": 430470,
+		"city": "Carazinho",
+		"status": "Não Homologado",
+		"affected_pop": 4,
+		"total_pop": 61804
+	},
+	{
+		"id": 430471,
+		"city": "Caraá",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7394
+	},
+	{
+		"id": 430480,
+		"city": "Carlos Barbosa",
+		"status": "Emergência",
+		"affected_pop": 1777,
+		"total_pop": 30420
+	},
+	{
+		"id": 430485,
+		"city": "Carlos Gomes",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 1368
+	},
+	{
+		"id": 430490,
+		"city": "Casca",
+		"status": "Emergência",
+		"affected_pop": 2023,
+		"total_pop": 9465
+	},
+	{
+		"id": 430495,
+		"city": "Caseiros",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3000
+	},
+	{
+		"id": 430500,
+		"city": "Catuípe",
+		"status": "Emergência",
+		"affected_pop": 105,
+		"total_pop": 8674
+	},
+	{
+		"id": 430510,
+		"city": "Caxias do Sul",
+		"status": "Calamidade",
+		"affected_pop": 203,
+		"total_pop": 463501
+	},
+	{
+		"id": 430511,
+		"city": "Centenário",
+		"status": "Emergência",
+		"affected_pop": 9,
+		"total_pop": 2721
+	},
+	{
+		"id": 430512,
+		"city": "Cerrito",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5808
+	},
+	{
+		"id": 430513,
+		"city": "Cerro Branco",
+		"status": "Calamidade",
+		"affected_pop": 1199,
+		"total_pop": 3802
+	},
+	{
+		"id": 430515,
+		"city": "Cerro Grande",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2379
+	},
+	{
+		"id": 430517,
+		"city": "Cerro Grande do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 9178
+	},
+	{
+		"id": 430520,
+		"city": "Cerro Largo",
+		"status": "Não Homologado",
+		"affected_pop": 13,
+		"total_pop": 13705
+	},
+	{
+		"id": 430530,
+		"city": "Chapada",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 9540
+	},
+	{
+		"id": 430535,
+		"city": "Charqueadas",
+		"status": "Calamidade",
+		"affected_pop": 8278,
+		"total_pop": 35012
+	},
+	{
+		"id": 430537,
+		"city": "Charrua",
+		"status": "Não Homologado",
+		"affected_pop": 4,
+		"total_pop": 2768
+	},
+	{
+		"id": 430540,
+		"city": "Chiapetta",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 3913
+	},
+	{
+		"id": 430543,
+		"city": "Chuí",
+		"status": "Emergência",
+		"affected_pop": 11,
+		"total_pop": 6262
+	},
+	{
+		"id": 430544,
+		"city": "Chuvisca",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4597
+	},
+	{
+		"id": 430545,
+		"city": "Cidreira",
+		"status": "Não Homologado",
+		"affected_pop": 2,
+		"total_pop": 17071
+	},
+	{
+		"id": 430550,
+		"city": "Ciríaco",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4149
+	},
+	{
+		"id": 430558,
+		"city": "Colinas",
+		"status": "Calamidade",
+		"affected_pop": 1202,
+		"total_pop": 2423
+	},
+	{
+		"id": 430560,
+		"city": "Colorado",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 3258
+	},
+	{
+		"id": 430570,
+		"city": "Condor",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 6406
+	},
+	{
+		"id": 430580,
+		"city": "Constantina",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 10385
+	},
+	{
+		"id": 430583,
+		"city": "Coqueiro Baixo",
+		"status": "Calamidade",
+		"affected_pop": 72,
+		"total_pop": 1290
+	},
+	{
+		"id": 430585,
+		"city": "Coqueiros do Sul",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 2211
+	},
+	{
+		"id": 430587,
+		"city": "Coronel Barros",
+		"status": "Emergência",
+		"affected_pop": 65,
+		"total_pop": 2822
+	},
+	{
+		"id": 430590,
+		"city": "Coronel Bicaco",
+		"status": "Emergência",
+		"affected_pop": 35,
+		"total_pop": 6144
+	},
+	{
+		"id": 430593,
+		"city": "Coronel Pilar",
+		"status": "Emergência",
+		"affected_pop": 127,
+		"total_pop": 1607
+	},
+	{
+		"id": 430595,
+		"city": "Cotiporã",
+		"status": "Calamidade",
+		"affected_pop": 493,
+		"total_pop": 3846
+	},
+	{
+		"id": 430597,
+		"city": "Coxilha",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 2667
+	},
+	{
+		"id": 430600,
+		"city": "Crissiumal",
+		"status": "Emergência",
+		"affected_pop": 156,
+		"total_pop": 12886
+	},
+	{
+		"id": 430605,
+		"city": "Cristal",
+		"status": "Emergência",
+		"affected_pop": 170,
+		"total_pop": 7299
+	},
+	{
+		"id": 430607,
+		"city": "Cristal do Sul",
+		"status": "Emergência",
+		"affected_pop": 442,
+		"total_pop": 2692
+	},
+	{
+		"id": 430610,
+		"city": "Cruz Alta",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 58913
+	},
+	{
+		"id": 430613,
+		"city": "Cruzaltense",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 1635
+	},
+	{
+		"id": 430620,
+		"city": "Cruzeiro do Sul",
+		"status": "Calamidade",
+		"affected_pop": 4799,
+		"total_pop": 11600
+	},
+	{
+		"id": 430630,
+		"city": "David Canabarro",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4321
+	},
+	{
+		"id": 430632,
+		"city": "Derrubadas",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2751
+	},
+	{
+		"id": 430635,
+		"city": "Dezesseis de Novembro",
+		"status": "Emergência",
+		"affected_pop": 29,
+		"total_pop": 2507
+	},
+	{
+		"id": 430637,
+		"city": "Dilermando de Aguiar",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2806
+	},
+	{
+		"id": 430640,
+		"city": "Dois Irmãos",
+		"status": "Emergência",
+		"affected_pop": 256,
+		"total_pop": 30709
+	},
+	{
+		"id": 430642,
+		"city": "Dois Irmãos das Missões",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2090
+	},
+	{
+		"id": 430645,
+		"city": "Dois Lajeados",
+		"status": "Emergência",
+		"affected_pop": 1177,
+		"total_pop": 3097
+	},
+	{
+		"id": 430650,
+		"city": "Dom Feliciano",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 13051
+	},
+	{
+		"id": 430655,
+		"city": "Dom Pedro de Alcântara",
+		"status": "Emergência",
+		"affected_pop": 1,
+		"total_pop": 2562
+	},
+	{
+		"id": 430660,
+		"city": "Dom Pedrito",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 36981
+	},
+	{
+		"id": 430670,
+		"city": "Dona Francisca",
+		"status": "Calamidade",
+		"affected_pop": 259,
+		"total_pop": 3079
+	},
+	{
+		"id": 430673,
+		"city": "Doutor Maurício Cardoso",
+		"status": "Emergência",
+		"affected_pop": 97,
+		"total_pop": 4470
+	},
+	{
+		"id": 430675,
+		"city": "Doutor Ricardo",
+		"status": "Calamidade",
+		"affected_pop": 77,
+		"total_pop": 1888
+	},
+	{
+		"id": 430676,
+		"city": "Eldorado do Sul",
+		"status": "Calamidade",
+		"affected_pop": 32509,
+		"total_pop": 39559
+	},
+	{
+		"id": 430680,
+		"city": "Encantado",
+		"status": "Calamidade",
+		"affected_pop": 8059,
+		"total_pop": 22962
+	},
+	{
+		"id": 430690,
+		"city": "Encruzilhada do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 23819
+	},
+	{
+		"id": 430692,
+		"city": "Engenho Velho",
+		"status": "Emergência",
+		"affected_pop": 31,
+		"total_pop": 1296
+	},
+	{
+		"id": 430693,
+		"city": "Entre-Ijuís",
+		"status": "Emergência",
+		"affected_pop": 126,
+		"total_pop": 9158
+	},
+	{
+		"id": 430695,
+		"city": "Entre Rios do Sul",
+		"status": "Emergência",
+		"affected_pop": 497,
+		"total_pop": 2685
+	},
+	{
+		"id": 430697,
+		"city": "Erebango",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3054
+	},
+	{
+		"id": 430700,
+		"city": "Erechim",
+		"status": "Emergência",
+		"affected_pop": 69,
+		"total_pop": 105705
+	},
+	{
+		"id": 430705,
+		"city": "Ernestina",
+		"status": "Não Homologado",
+		"affected_pop": 1,
+		"total_pop": 3034
+	},
+	{
+		"id": 430710,
+		"city": "Herval",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6191
+	},
+	{
+		"id": 430720,
+		"city": "Erval Grande",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 4930
+	},
+	{
+		"id": 430730,
+		"city": "Erval Seco",
+		"status": "Emergência",
+		"affected_pop": 25,
+		"total_pop": 6787
+	},
+	{
+		"id": 430740,
+		"city": "Esmeralda",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3195
+	},
+	{
+		"id": 430745,
+		"city": "Esperança do Sul",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 3226
+	},
+	{
+		"id": 430750,
+		"city": "Espumoso",
+		"status": "Emergência",
+		"affected_pop": 1202,
+		"total_pop": 15173
+	},
+	{
+		"id": 430755,
+		"city": "Estação",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5582
+	},
+	{
+		"id": 430760,
+		"city": "Estância Velha",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 47924
+	},
+	{
+		"id": 430770,
+		"city": "Esteio",
+		"status": "Calamidade",
+		"affected_pop": 19970,
+		"total_pop": 76137
+	},
+	{
+		"id": 430780,
+		"city": "Estrela",
+		"status": "Calamidade",
+		"affected_pop": 12054,
+		"total_pop": 32183
+	},
+	{
+		"id": 430781,
+		"city": "Estrela Velha",
+		"status": "Emergência",
+		"affected_pop": 17,
+		"total_pop": 3070
+	},
+	{
+		"id": 430783,
+		"city": "Eugênio de Castro",
+		"status": "Emergência",
+		"affected_pop": 16,
+		"total_pop": 2633
+	},
+	{
+		"id": 430786,
+		"city": "Fagundes Varela",
+		"status": "Emergência",
+		"affected_pop": 6,
+		"total_pop": 2566
+	},
+	{
+		"id": 430790,
+		"city": "Farroupilha",
+		"status": "Emergência",
+		"affected_pop": 92,
+		"total_pop": 70286
+	},
+	{
+		"id": 430800,
+		"city": "Faxinal do Soturno",
+		"status": "Calamidade",
+		"affected_pop": 174,
+		"total_pop": 6702
+	},
+	{
+		"id": 430805,
+		"city": "Faxinalzinho",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 2520
+	},
+	{
+		"id": 430807,
+		"city": "Fazenda Vilanova",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4291
+	},
+	{
+		"id": 430810,
+		"city": "Feliz",
+		"status": "Calamidade",
+		"affected_pop": 3013,
+		"total_pop": 13764
+	},
+	{
+		"id": 430820,
+		"city": "Flores da Cunha",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 30892
+	},
+	{
+		"id": 430825,
+		"city": "Floriano Peixoto",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 1668
+	},
+	{
+		"id": 430830,
+		"city": "Fontoura Xavier",
+		"status": "Calamidade",
+		"affected_pop": 98,
+		"total_pop": 9550
+	},
+	{
+		"id": 430840,
+		"city": "Formigueiro",
+		"status": "Emergência",
+		"affected_pop": 46,
+		"total_pop": 6413
+	},
+	{
+		"id": 430843,
+		"city": "Forquetinha",
+		"status": "Calamidade",
+		"affected_pop": 829,
+		"total_pop": 2393
+	},
+	{
+		"id": 430845,
+		"city": "Fortaleza dos Valos",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4477
+	},
+	{
+		"id": 430850,
+		"city": "Frederico Westphalen",
+		"status": "Emergência",
+		"affected_pop": 17,
+		"total_pop": 32627
+	},
+	{
+		"id": 430860,
+		"city": "Garibaldi",
+		"status": "Emergência",
+		"affected_pop": 935,
+		"total_pop": 34335
+	},
+	{
+		"id": 430865,
+		"city": "Garruchos",
+		"status": "Emergência",
+		"affected_pop": 112,
+		"total_pop": 2688
+	},
+	{
+		"id": 430870,
+		"city": "Gaurama",
+		"status": "Emergência",
+		"affected_pop": 29,
+		"total_pop": 5665
+	},
+	{
+		"id": 430880,
+		"city": "General Câmara",
+		"status": "Calamidade",
+		"affected_pop": 1160,
+		"total_pop": 7612
+	},
+	{
+		"id": 430885,
+		"city": "Gentil",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1744
+	},
+	{
+		"id": 430890,
+		"city": "Getúlio Vargas",
+		"status": "Emergência",
+		"affected_pop": 1296,
+		"total_pop": 16602
+	},
+	{
+		"id": 430900,
+		"city": "Giruá",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 16013
+	},
+	{
+		"id": 430905,
+		"city": "Glorinha",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7658
+	},
+	{
+		"id": 430910,
+		"city": "Gramado",
+		"status": "Calamidade",
+		"affected_pop": 548,
+		"total_pop": 40134
+	},
+	{
+		"id": 430912,
+		"city": "Gramado dos Loureiros",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2014
+	},
+	{
+		"id": 430915,
+		"city": "Gramado Xavier",
+		"status": "Emergência",
+		"affected_pop": 9,
+		"total_pop": 3304
+	},
+	{
+		"id": 430920,
+		"city": "Gravataí",
+		"status": "Emergência",
+		"affected_pop": 5844,
+		"total_pop": 265074
+	},
+	{
+		"id": 430925,
+		"city": "Guabiju",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1417
+	},
+	{
+		"id": 430930,
+		"city": "Guaíba",
+		"status": "Calamidade",
+		"affected_pop": 31754,
+		"total_pop": 92924
+	},
+	{
+		"id": 430940,
+		"city": "Guaporé",
+		"status": "Calamidade",
+		"affected_pop": 265,
+		"total_pop": 25268
+	},
+	{
+		"id": 430950,
+		"city": "Guarani das Missões",
+		"status": "Emergência",
+		"affected_pop": 14,
+		"total_pop": 7415
+	},
+	{
+		"id": 430955,
+		"city": "Harmonia",
+		"status": "Emergência",
+		"affected_pop": 454,
+		"total_pop": 5378
+	},
+	{
+		"id": 430957,
+		"city": "Herveiras",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 2565
+	},
+	{
+		"id": 430960,
+		"city": "Horizontina",
+		"status": "Emergência",
+		"affected_pop": 69,
+		"total_pop": 18851
+	},
+	{
+		"id": 430965,
+		"city": "Hulha Negra",
+		"status": "Emergência",
+		"affected_pop": 34,
+		"total_pop": 5976
+	},
+	{
+		"id": 430970,
+		"city": "Humaitá",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4681
+	},
+	{
+		"id": 430975,
+		"city": "Ibarama",
+		"status": "Calamidade",
+		"affected_pop": 447,
+		"total_pop": 3732
+	},
+	{
+		"id": 430980,
+		"city": "Ibiaçá",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 4527
+	},
+	{
+		"id": 430990,
+		"city": "Ibiraiaras",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 6776
+	},
+	{
+		"id": 430995,
+		"city": "Ibirapuitã",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 3723
+	},
+	{
+		"id": 431000,
+		"city": "Ibirubá",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 21583
+	},
+	{
+		"id": 431010,
+		"city": "Igrejinha",
+		"status": "Calamidade",
+		"affected_pop": 16683,
+		"total_pop": 32808
+	},
+	{
+		"id": 431020,
+		"city": "Ijuí",
+		"status": "Emergência",
+		"affected_pop": 70,
+		"total_pop": 84780
+	},
+	{
+		"id": 431030,
+		"city": "Ilópolis",
+		"status": "Emergência",
+		"affected_pop": 25,
+		"total_pop": 4157
+	},
+	{
+		"id": 431033,
+		"city": "Imbé",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 26824
+	},
+	{
+		"id": 431036,
+		"city": "Imigrante",
+		"status": "Calamidade",
+		"affected_pop": 1125,
+		"total_pop": 3080
+	},
+	{
+		"id": 431040,
+		"city": "Independência",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6427
+	},
+	{
+		"id": 431041,
+		"city": "Inhacorá",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2014
+	},
+	{
+		"id": 431043,
+		"city": "Ipê",
+		"status": "Emergência",
+		"affected_pop": 21,
+		"total_pop": 5399
+	},
+	{
+		"id": 431046,
+		"city": "Ipiranga do Sul",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1720
+	},
+	{
+		"id": 431050,
+		"city": "Iraí",
+		"status": "Emergência",
+		"affected_pop": 9,
+		"total_pop": 7482
+	},
+	{
+		"id": 431053,
+		"city": "Itaara",
+		"status": "Emergência",
+		"affected_pop": 1,
+		"total_pop": 5572
+	},
+	{
+		"id": 431055,
+		"city": "Itacurubi",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2995
+	},
+	{
+		"id": 431057,
+		"city": "Itapuca",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 1937
+	},
+	{
+		"id": 431060,
+		"city": "Itaqui",
+		"status": "Emergência",
+		"affected_pop": 4435,
+		"total_pop": 35768
+	},
+	{
+		"id": 431065,
+		"city": "Itati",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2638
+	},
+	{
+		"id": 431070,
+		"city": "Itatiba do Sul",
+		"status": "Emergência",
+		"affected_pop": 3,
+		"total_pop": 3208
+	},
+	{
+		"id": 431075,
+		"city": "Ivorá",
+		"status": "Calamidade",
+		"affected_pop": 73,
+		"total_pop": 1929
+	},
+	{
+		"id": 431080,
+		"city": "Ivoti",
+		"status": "Emergência",
+		"affected_pop": 5,
+		"total_pop": 22983
+	},
+	{
+		"id": 431085,
+		"city": "Jaboticaba",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3779
+	},
+	{
+		"id": 431087,
+		"city": "Jacuizinho",
+		"status": "Emergência",
+		"affected_pop": 6,
+		"total_pop": 2040
+	},
+	{
+		"id": 431090,
+		"city": "Jacutinga",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 3338
+	},
+	{
+		"id": 431100,
+		"city": "Jaguarão",
+		"status": "Emergência",
+		"affected_pop": 303,
+		"total_pop": 26603
+	},
+	{
+		"id": 431110,
+		"city": "Jaguari",
+		"status": "Calamidade",
+		"affected_pop": 787,
+		"total_pop": 10579
+	},
+	{
+		"id": 431112,
+		"city": "Jaquirana",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3690
+	},
+	{
+		"id": 431113,
+		"city": "Jari",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 3349
+	},
+	{
+		"id": 431115,
+		"city": "Jóia",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7184
+	},
+	{
+		"id": 431120,
+		"city": "Júlio de Castilhos",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 18226
+	},
+	{
+		"id": 431123,
+		"city": "Lagoa Bonita do Sul",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2251
+	},
+	{
+		"id": 431125,
+		"city": "Lagoão",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5341
+	},
+	{
+		"id": 431127,
+		"city": "Lagoa dos Três Cantos",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 1738
+	},
+	{
+		"id": 431130,
+		"city": "Lagoa Vermelha",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 27659
+	},
+	{
+		"id": 431140,
+		"city": "Lajeado",
+		"status": "Calamidade",
+		"affected_pop": 12301,
+		"total_pop": 93646
+	},
+	{
+		"id": 431142,
+		"city": "Lajeado do Bugre",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2601
+	},
+	{
+		"id": 431150,
+		"city": "Lavras do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7157
+	},
+	{
+		"id": 431160,
+		"city": "Liberato Salzano",
+		"status": "Emergência",
+		"affected_pop": 270,
+		"total_pop": 4781
+	},
+	{
+		"id": 431162,
+		"city": "Lindolfo Collor",
+		"status": "Emergência",
+		"affected_pop": 453,
+		"total_pop": 6248
+	},
+	{
+		"id": 431164,
+		"city": "Linha Nova",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 1683
+	},
+	{
+		"id": 431170,
+		"city": "Machadinho",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5735
+	},
+	{
+		"id": 431171,
+		"city": "Maçambará",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4425
+	},
+	{
+		"id": 431173,
+		"city": "Mampituba",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3131
+	},
+	{
+		"id": 431175,
+		"city": "Manoel Viana",
+		"status": "Emergência",
+		"affected_pop": 421,
+		"total_pop": 6801
+	},
+	{
+		"id": 431177,
+		"city": "Maquiné",
+		"status": "Calamidade",
+		"affected_pop": 2704,
+		"total_pop": 7418
+	},
+	{
+		"id": 431179,
+		"city": "Maratá",
+		"status": "Emergência",
+		"affected_pop": 51,
+		"total_pop": 2470
+	},
+	{
+		"id": 431180,
+		"city": "Marau",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 45124
+	},
+	{
+		"id": 431190,
+		"city": "Marcelino Ramos",
+		"status": "Emergência",
+		"affected_pop": 133,
+		"total_pop": 4320
+	},
+	{
+		"id": 431198,
+		"city": "Mariana Pimentel",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3916
+	},
+	{
+		"id": 431200,
+		"city": "Mariano Moro",
+		"status": "Emergência",
+		"affected_pop": 103,
+		"total_pop": 1858
+	},
+	{
+		"id": 431205,
+		"city": "Marques de Souza",
+		"status": "Calamidade",
+		"affected_pop": 1804,
+		"total_pop": 3969
+	},
+	{
+		"id": 431210,
+		"city": "Mata",
+		"status": "Emergência",
+		"affected_pop": 12,
+		"total_pop": 4698
+	},
+	{
+		"id": 431213,
+		"city": "Mato Castelhano",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2553
+	},
+	{
+		"id": 431215,
+		"city": "Mato Leitão",
+		"status": "Emergência",
+		"affected_pop": 207,
+		"total_pop": 4859
+	},
+	{
+		"id": 431217,
+		"city": "Mato Queimado",
+		"status": "Emergência",
+		"affected_pop": 20,
+		"total_pop": 1795
+	},
+	{
+		"id": 431220,
+		"city": "Maximiliano de Almeida",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 4191
+	},
+	{
+		"id": 431225,
+		"city": "Minas do Leão",
+		"status": "Emergência",
+		"affected_pop": 52,
+		"total_pop": 7505
+	},
+	{
+		"id": 431230,
+		"city": "Miraguaí",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4427
+	},
+	{
+		"id": 431235,
+		"city": "Montauri",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 1499
+	},
+	{
+		"id": 431237,
+		"city": "Monte Alegre dos Campos",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3180
+	},
+	{
+		"id": 431238,
+		"city": "Monte Belo do Sul",
+		"status": "Emergência",
+		"affected_pop": 39,
+		"total_pop": 2557
+	},
+	{
+		"id": 431240,
+		"city": "Montenegro",
+		"status": "Calamidade",
+		"affected_pop": 8923,
+		"total_pop": 64322
+	},
+	{
+		"id": 431242,
+		"city": "Mormaço",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2756
+	},
+	{
+		"id": 431244,
+		"city": "Morrinhos do Sul",
+		"status": "Emergência",
+		"affected_pop": 6,
+		"total_pop": 3071
+	},
+	{
+		"id": 431245,
+		"city": "Morro Redondo",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6046
+	},
+	{
+		"id": 431247,
+		"city": "Morro Reuter",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6029
+	},
+	{
+		"id": 431250,
+		"city": "Mostardas",
+		"status": "Emergência",
+		"affected_pop": 119,
+		"total_pop": 12090
+	},
+	{
+		"id": 431260,
+		"city": "Muçum",
+		"status": "Calamidade",
+		"affected_pop": 3638,
+		"total_pop": 4601
+	},
+	{
+		"id": 431261,
+		"city": "Muitos Capões",
+		"status": "Emergência",
+		"affected_pop": 3,
+		"total_pop": 2879
+	},
+	{
+		"id": 431262,
+		"city": "Muliterno",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1721
+	},
+	{
+		"id": 431265,
+		"city": "Não-Me-Toque",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 17898
+	},
+	{
+		"id": 431267,
+		"city": "Nicolau Vergueiro",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1932
+	},
+	{
+		"id": 431270,
+		"city": "Nonoai",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 13719
+	},
+	{
+		"id": 431275,
+		"city": "Nova Alvorada",
+		"status": "Emergência",
+		"affected_pop": 86,
+		"total_pop": 3163
+	},
+	{
+		"id": 431280,
+		"city": "Nova Araçá",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 4954
+	},
+	{
+		"id": 431290,
+		"city": "Nova Bassano",
+		"status": "Emergência",
+		"affected_pop": 1383,
+		"total_pop": 9649
+	},
+	{
+		"id": 431295,
+		"city": "Nova Boa Vista",
+		"status": "Emergência",
+		"affected_pop": 163,
+		"total_pop": 2042
+	},
+	{
+		"id": 431300,
+		"city": "Nova Bréscia",
+		"status": "Emergência",
+		"affected_pop": 199,
+		"total_pop": 3044
+	},
+	{
+		"id": 431301,
+		"city": "Nova Candelária",
+		"status": "Não Homologado",
+		"affected_pop": 2,
+		"total_pop": 3061
+	},
+	{
+		"id": 431303,
+		"city": "Nova Esperança do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4865
+	},
+	{
+		"id": 431306,
+		"city": "Nova Hartz",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 20088
+	},
+	{
+		"id": 431308,
+		"city": "Nova Pádua",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2343
+	},
+	{
+		"id": 431310,
+		"city": "Nova Palma",
+		"status": "Calamidade",
+		"affected_pop": 575,
+		"total_pop": 5586
+	},
+	{
+		"id": 431320,
+		"city": "Nova Petrópolis",
+		"status": "Emergência",
+		"affected_pop": 103,
+		"total_pop": 23300
+	},
+	{
+		"id": 431330,
+		"city": "Nova Prata",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 25692
+	},
+	{
+		"id": 431333,
+		"city": "Nova Ramada",
+		"status": "Emergência",
+		"affected_pop": 156,
+		"total_pop": 2163
+	},
+	{
+		"id": 431335,
+		"city": "Nova Roma do Sul",
+		"status": "Emergência",
+		"affected_pop": 11,
+		"total_pop": 3466
+	},
+	{
+		"id": 431337,
+		"city": "Nova Santa Rita",
+		"status": "Calamidade",
+		"affected_pop": 6843,
+		"total_pop": 29024
+	},
+	{
+		"id": 431339,
+		"city": "Novo Cabrais",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3568
+	},
+	{
+		"id": 431340,
+		"city": "Novo Hamburgo",
+		"status": "Calamidade",
+		"affected_pop": 29161,
+		"total_pop": 227646
+	},
+	{
+		"id": 431342,
+		"city": "Novo Machado",
+		"status": "Emergência",
+		"affected_pop": 32,
+		"total_pop": 3198
+	},
+	{
+		"id": 431344,
+		"city": "Novo Tiradentes",
+		"status": "Emergência",
+		"affected_pop": 5,
+		"total_pop": 2146
+	},
+	{
+		"id": 431346,
+		"city": "Novo Xingu",
+		"status": "Emergência",
+		"affected_pop": 18,
+		"total_pop": 1646
+	},
+	{
+		"id": 431349,
+		"city": "Novo Barreiro",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 4272
+	},
+	{
+		"id": 431350,
+		"city": "Osório",
+		"status": "Não Homologado",
+		"affected_pop": 112,
+		"total_pop": 47396
+	},
+	{
+		"id": 431360,
+		"city": "Paim Filho",
+		"status": "Emergência",
+		"affected_pop": 21,
+		"total_pop": 3629
+	},
+	{
+		"id": 431365,
+		"city": "Palmares do Sul",
+		"status": "Emergência",
+		"affected_pop": 2378,
+		"total_pop": 12844
+	},
+	{
+		"id": 431370,
+		"city": "Palmeira das Missões",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 33216
+	},
+	{
+		"id": 431380,
+		"city": "Palmitinho",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 7839
+	},
+	{
+		"id": 431390,
+		"city": "Panambi",
+		"status": "Emergência",
+		"affected_pop": 16,
+		"total_pop": 43515
+	},
+	{
+		"id": 431395,
+		"city": "Pantano Grande",
+		"status": "Emergência",
+		"affected_pop": 277,
+		"total_pop": 10212
+	},
+	{
+		"id": 431400,
+		"city": "Paraí",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 7194
+	},
+	{
+		"id": 431402,
+		"city": "Paraíso do Sul",
+		"status": "Calamidade",
+		"affected_pop": 601,
+		"total_pop": 6519
+	},
+	{
+		"id": 431403,
+		"city": "Pareci Novo",
+		"status": "Calamidade",
+		"affected_pop": 1365,
+		"total_pop": 4319
+	},
+	{
+		"id": 431405,
+		"city": "Parobé",
+		"status": "Calamidade",
+		"affected_pop": 994,
+		"total_pop": 52058
+	},
+	{
+		"id": 431406,
+		"city": "Passa Sete",
+		"status": "Calamidade",
+		"affected_pop": 361,
+		"total_pop": 3983
+	},
+	{
+		"id": 431407,
+		"city": "Passo do Sobrado",
+		"status": "Calamidade",
+		"affected_pop": 149,
+		"total_pop": 6025
+	},
+	{
+		"id": 431410,
+		"city": "Passo Fundo",
+		"status": "Emergência",
+		"affected_pop": 5601,
+		"total_pop": 206215
+	},
+	{
+		"id": 431413,
+		"city": "Paulo Bento",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 2144
+	},
+	{
+		"id": 431415,
+		"city": "Paverama",
+		"status": "Emergência",
+		"affected_pop": 33,
+		"total_pop": 7978
+	},
+	{
+		"id": 431417,
+		"city": "Pedras Altas",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2061
+	},
+	{
+		"id": 431420,
+		"city": "Pedro Osório",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7484
+	},
+	{
+		"id": 431430,
+		"city": "Pejuçara",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3745
+	},
+	{
+		"id": 431440,
+		"city": "Pelotas",
+		"status": "Calamidade",
+		"affected_pop": 49795,
+		"total_pop": 325685
+	},
+	{
+		"id": 431442,
+		"city": "Picada Café",
+		"status": "Emergência",
+		"affected_pop": 195,
+		"total_pop": 5351
+	},
+	{
+		"id": 431445,
+		"city": "Pinhal",
+		"status": "Emergência",
+		"affected_pop": 196,
+		"total_pop": 2959
+	},
+	{
+		"id": 431446,
+		"city": "Pinhal da Serra",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 2248
+	},
+	{
+		"id": 431447,
+		"city": "Pinhal Grande",
+		"status": "Calamidade",
+		"affected_pop": 18,
+		"total_pop": 3805
+	},
+	{
+		"id": 431449,
+		"city": "Pinheirinho do Vale",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 4540
+	},
+	{
+		"id": 431450,
+		"city": "Pinheiro Machado",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 11214
+	},
+	{
+		"id": 431454,
+		"city": "Pinto Bandeira",
+		"status": "Emergência",
+		"affected_pop": 38,
+		"total_pop": 2723
+	},
+	{
+		"id": 431455,
+		"city": "Pirapó",
+		"status": "Emergência",
+		"affected_pop": 358,
+		"total_pop": 2260
+	},
+	{
+		"id": 431460,
+		"city": "Piratini",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 17504
+	},
+	{
+		"id": 431470,
+		"city": "Planalto",
+		"status": "Emergência",
+		"affected_pop": 5,
+		"total_pop": 10406
+	},
+	{
+		"id": 431475,
+		"city": "Poço das Antas",
+		"status": "Emergência",
+		"affected_pop": 165,
+		"total_pop": 2171
+	},
+	{
+		"id": 431477,
+		"city": "Pontão",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3296
+	},
+	{
+		"id": 431478,
+		"city": "Ponte Preta",
+		"status": "Calamidade",
+		"affected_pop": 374,
+		"total_pop": 1575
+	},
+	{
+		"id": 431480,
+		"city": "Portão",
+		"status": "Emergência",
+		"affected_pop": 70,
+		"total_pop": 34071
+	},
+	{
+		"id": 431490,
+		"city": "Porto Alegre",
+		"status": "Calamidade",
+		"affected_pop": 125274,
+		"total_pop": 1332845
+	},
+	{
+		"id": 431500,
+		"city": "Porto Lucena",
+		"status": "Emergência",
+		"affected_pop": 262,
+		"total_pop": 4360
+	},
+	{
+		"id": 431505,
+		"city": "Porto Mauá",
+		"status": "Emergência",
+		"affected_pop": 230,
+		"total_pop": 2142
+	},
+	{
+		"id": 431507,
+		"city": "Porto Vera Cruz",
+		"status": "Emergência",
+		"affected_pop": 16,
+		"total_pop": 1560
+	},
+	{
+		"id": 431510,
+		"city": "Porto Xavier",
+		"status": "Emergência",
+		"affected_pop": 121,
+		"total_pop": 9938
+	},
+	{
+		"id": 431513,
+		"city": "Pouso Novo",
+		"status": "Calamidade",
+		"affected_pop": 110,
+		"total_pop": 1739
+	},
+	{
+		"id": 431514,
+		"city": "Presidente Lucena",
+		"status": "Emergência",
+		"affected_pop": 69,
+		"total_pop": 3077
+	},
+	{
+		"id": 431515,
+		"city": "Progresso",
+		"status": "Emergência",
+		"affected_pop": 71,
+		"total_pop": 5340
+	},
+	{
+		"id": 431517,
+		"city": "Protásio Alves",
+		"status": "Emergência",
+		"affected_pop": 47,
+		"total_pop": 2025
+	},
+	{
+		"id": 431520,
+		"city": "Putinga",
+		"status": "Calamidade",
+		"affected_pop": 932,
+		"total_pop": 3747
+	},
+	{
+		"id": 431530,
+		"city": "Quaraí",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 23500
+	},
+	{
+		"id": 431531,
+		"city": "Quatro Irmãos",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 1552
+	},
+	{
+		"id": 431532,
+		"city": "Quevedos",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2507
+	},
+	{
+		"id": 431535,
+		"city": "Quinze de Novembro",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3910
+	},
+	{
+		"id": 431540,
+		"city": "Redentora",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 9738
+	},
+	{
+		"id": 431545,
+		"city": "Relvado",
+		"status": "Calamidade",
+		"affected_pop": 687,
+		"total_pop": 1796
+	},
+	{
+		"id": 431550,
+		"city": "Restinga Seca",
+		"status": "Calamidade",
+		"affected_pop": 2641,
+		"total_pop": 14939
+	},
+	{
+		"id": 431555,
+		"city": "Rio dos Índios",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2835
+	},
+	{
+		"id": 431560,
+		"city": "Rio Grande",
+		"status": "Calamidade",
+		"affected_pop": 70930,
+		"total_pop": 191900
+	},
+	{
+		"id": 431570,
+		"city": "Rio Pardo",
+		"status": "Calamidade",
+		"affected_pop": 8839,
+		"total_pop": 34654
+	},
+	{
+		"id": 431575,
+		"city": "Riozinho",
+		"status": "Emergência",
+		"affected_pop": 6,
+		"total_pop": 4473
+	},
+	{
+		"id": 431580,
+		"city": "Roca Sales",
+		"status": "Calamidade",
+		"affected_pop": 5680,
+		"total_pop": 10418
+	},
+	{
+		"id": 431590,
+		"city": "Rodeio Bonito",
+		"status": "Emergência",
+		"affected_pop": 59,
+		"total_pop": 6654
+	},
+	{
+		"id": 431595,
+		"city": "Rolador",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2291
+	},
+	{
+		"id": 431600,
+		"city": "Rolante",
+		"status": "Calamidade",
+		"affected_pop": 5719,
+		"total_pop": 21253
+	},
+	{
+		"id": 431610,
+		"city": "Ronda Alta",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 9777
+	},
+	{
+		"id": 431620,
+		"city": "Rondinha",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4991
+	},
+	{
+		"id": 431630,
+		"city": "Roque Gonzales",
+		"status": "Emergência",
+		"affected_pop": 53,
+		"total_pop": 6576
+	},
+	{
+		"id": 431640,
+		"city": "Rosário do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 36630
+	},
+	{
+		"id": 431642,
+		"city": "Sagrada Família",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2480
+	},
+	{
+		"id": 431643,
+		"city": "Saldanha Marinho",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2575
+	},
+	{
+		"id": 431645,
+		"city": "Salto do Jacuí",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 10203
+	},
+	{
+		"id": 431647,
+		"city": "Salvador das Missões",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 2877
+	},
+	{
+		"id": 431650,
+		"city": "Salvador do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6879
+	},
+	{
+		"id": 431660,
+		"city": "Sananduva",
+		"status": "Não Homologado",
+		"affected_pop": 5,
+		"total_pop": 16399
+	},
+	{
+		"id": 431670,
+		"city": "Santa Bárbara do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 8122
+	},
+	{
+		"id": 431673,
+		"city": "Santa Cecília do Sul",
+		"status": "Não Homologado",
+		"affected_pop": 2,
+		"total_pop": 1674
+	},
+	{
+		"id": 431675,
+		"city": "Santa Clara do Sul",
+		"status": "Emergência",
+		"affected_pop": 65,
+		"total_pop": 6887
+	},
+	{
+		"id": 431680,
+		"city": "Santa Cruz do Sul",
+		"status": "Calamidade",
+		"affected_pop": 5117,
+		"total_pop": 133230
+	},
+	{
+		"id": 431690,
+		"city": "Santa Maria",
+		"status": "Calamidade",
+		"affected_pop": 7714,
+		"total_pop": 271735
+	},
+	{
+		"id": 431695,
+		"city": "Santa Maria do Herval",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 6340
+	},
+	{
+		"id": 431697,
+		"city": "Santa Margarida do Sul",
+		"status": "Emergência",
+		"affected_pop": 18,
+		"total_pop": 2596
+	},
+	{
+		"id": 431700,
+		"city": "Santana da Boa Vista",
+		"status": "Emergência",
+		"affected_pop": 3,
+		"total_pop": 7024
+	},
+	{
+		"id": 431710,
+		"city": "Santana do Livramento",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 84421
+	},
+	{
+		"id": 431720,
+		"city": "Santa Rosa",
+		"status": "Emergência",
+		"affected_pop": 2535,
+		"total_pop": 76963
+	},
+	{
+		"id": 431725,
+		"city": "Santa Tereza",
+		"status": "Calamidade",
+		"affected_pop": 484,
+		"total_pop": 1505
+	},
+	{
+		"id": 431730,
+		"city": "Santa Vitória do Palmar",
+		"status": "Emergência",
+		"affected_pop": 163,
+		"total_pop": 30983
+	},
+	{
+		"id": 431740,
+		"city": "Santiago",
+		"status": "Emergência",
+		"affected_pop": 2143,
+		"total_pop": 48938
+	},
+	{
+		"id": 431750,
+		"city": "Santo Ângelo",
+		"status": "Emergência",
+		"affected_pop": 385,
+		"total_pop": 76917
+	},
+	{
+		"id": 431755,
+		"city": "Santo Antônio do Palma",
+		"status": "Emergência",
+		"affected_pop": 143,
+		"total_pop": 2091
+	},
+	{
+		"id": 431760,
+		"city": "Santo Antônio da Patrulha",
+		"status": "Emergência",
+		"affected_pop": 14,
+		"total_pop": 42947
+	},
+	{
+		"id": 431770,
+		"city": "Santo Antônio das Missões",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 10300
+	},
+	{
+		"id": 431775,
+		"city": "Santo Antônio do Planalto",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 2089
+	},
+	{
+		"id": 431780,
+		"city": "Santo Augusto",
+		"status": "Emergência",
+		"affected_pop": 9,
+		"total_pop": 13902
+	},
+	{
+		"id": 431790,
+		"city": "Santo Cristo",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 15320
+	},
+	{
+		"id": 431795,
+		"city": "Santo Expedito do Sul",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 2349
+	},
+	{
+		"id": 431800,
+		"city": "São Borja",
+		"status": "Emergência",
+		"affected_pop": 923,
+		"total_pop": 59676
+	},
+	{
+		"id": 431805,
+		"city": "São Domingos do Sul",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 2754
+	},
+	{
+		"id": 431810,
+		"city": "São Francisco de Assis",
+		"status": "Emergência",
+		"affected_pop": 27,
+		"total_pop": 17618
+	},
+	{
+		"id": 431820,
+		"city": "São Francisco de Paula",
+		"status": "Emergência",
+		"affected_pop": 251,
+		"total_pop": 21893
+	},
+	{
+		"id": 431830,
+		"city": "São Gabriel",
+		"status": "Emergência",
+		"affected_pop": 2167,
+		"total_pop": 58487
+	},
+	{
+		"id": 431840,
+		"city": "São Jerônimo",
+		"status": "Calamidade",
+		"affected_pop": 5639,
+		"total_pop": 21028
+	},
+	{
+		"id": 431842,
+		"city": "São João da Urtiga",
+		"status": "Emergência",
+		"affected_pop": 17,
+		"total_pop": 4461
+	},
+	{
+		"id": 431843,
+		"city": "São João do Polêsine",
+		"status": "Calamidade",
+		"affected_pop": 230,
+		"total_pop": 2649
+	},
+	{
+		"id": 431844,
+		"city": "São Jorge",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 2912
+	},
+	{
+		"id": 431845,
+		"city": "São José das Missões",
+		"status": "Emergência",
+		"affected_pop": 25,
+		"total_pop": 2362
+	},
+	{
+		"id": 431846,
+		"city": "São José do Herval",
+		"status": "Calamidade",
+		"affected_pop": 61,
+		"total_pop": 1902
+	},
+	{
+		"id": 431848,
+		"city": "São José do Hortêncio",
+		"status": "Emergência",
+		"affected_pop": 166,
+		"total_pop": 4447
+	},
+	{
+		"id": 431849,
+		"city": "São José do Inhacorá",
+		"status": "Emergência",
+		"affected_pop": 24,
+		"total_pop": 2406
+	},
+	{
+		"id": 431850,
+		"city": "São José do Norte",
+		"status": "Calamidade",
+		"affected_pop": 5486,
+		"total_pop": 25443
+	},
+	{
+		"id": 431860,
+		"city": "São José do Ouro",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 6834
+	},
+	{
+		"id": 431861,
+		"city": "São José do Sul",
+		"status": "Emergência",
+		"affected_pop": 17,
+		"total_pop": 2380
+	},
+	{
+		"id": 431862,
+		"city": "São José dos Ausentes",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4172
+	},
+	{
+		"id": 431870,
+		"city": "São Leopoldo",
+		"status": "Calamidade",
+		"affected_pop": 90371,
+		"total_pop": 217409
+	},
+	{
+		"id": 431880,
+		"city": "São Lourenço do Sul",
+		"status": "Calamidade",
+		"affected_pop": 9547,
+		"total_pop": 41989
+	},
+	{
+		"id": 431890,
+		"city": "São Luiz Gonzaga",
+		"status": "Emergência",
+		"affected_pop": 17,
+		"total_pop": 34752
+	},
+	{
+		"id": 431900,
+		"city": "São Marcos",
+		"status": "Emergência",
+		"affected_pop": 16,
+		"total_pop": 21084
+	},
+	{
+		"id": 431910,
+		"city": "São Martinho",
+		"status": "Emergência",
+		"affected_pop": 12,
+		"total_pop": 5481
+	},
+	{
+		"id": 431912,
+		"city": "São Martinho da Serra",
+		"status": "Calamidade",
+		"affected_pop": 1,
+		"total_pop": 2860
+	},
+	{
+		"id": 431915,
+		"city": "São Miguel das Missões",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7056
+	},
+	{
+		"id": 431920,
+		"city": "São Nicolau",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 5118
+	},
+	{
+		"id": 431930,
+		"city": "São Paulo das Missões",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 5846
+	},
+	{
+		"id": 431935,
+		"city": "São Pedro da Serra",
+		"status": "Emergência",
+		"affected_pop": 82,
+		"total_pop": 3548
+	},
+	{
+		"id": 431936,
+		"city": "São Pedro das Missões",
+		"status": "Emergência",
+		"affected_pop": 26,
+		"total_pop": 1757
+	},
+	{
+		"id": 431937,
+		"city": "São Pedro do Butiá",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3070
+	},
+	{
+		"id": 431940,
+		"city": "São Pedro do Sul",
+		"status": "Emergência",
+		"affected_pop": 247,
+		"total_pop": 15577
+	},
+	{
+		"id": 431950,
+		"city": "São Sebastião do Caí",
+		"status": "Calamidade",
+		"affected_pop": 10197,
+		"total_pop": 24428
+	},
+	{
+		"id": 431960,
+		"city": "São Sepé",
+		"status": "Emergência",
+		"affected_pop": 254,
+		"total_pop": 21219
+	},
+	{
+		"id": 431970,
+		"city": "São Valentim",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3264
+	},
+	{
+		"id": 431971,
+		"city": "São Valentim do Sul",
+		"status": "Calamidade",
+		"affected_pop": 121,
+		"total_pop": 2207
+	},
+	{
+		"id": 431973,
+		"city": "São Valério do Sul",
+		"status": "Emergência",
+		"affected_pop": 8,
+		"total_pop": 2543
+	},
+	{
+		"id": 431975,
+		"city": "São Vendelino",
+		"status": "Calamidade",
+		"affected_pop": 217,
+		"total_pop": 2251
+	},
+	{
+		"id": 431980,
+		"city": "São Vicente do Sul",
+		"status": "Emergência",
+		"affected_pop": 55,
+		"total_pop": 8097
+	},
+	{
+		"id": 431990,
+		"city": "Sapiranga",
+		"status": "Emergência",
+		"affected_pop": 290,
+		"total_pop": 75648
+	},
+	{
+		"id": 432000,
+		"city": "Sapucaia do Sul",
+		"status": "Calamidade",
+		"affected_pop": 5666,
+		"total_pop": 132107
+	},
+	{
+		"id": 432010,
+		"city": "Sarandi",
+		"status": "Emergência",
+		"affected_pop": 19,
+		"total_pop": 22851
+	},
+	{
+		"id": 432020,
+		"city": "Seberi",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 11950
+	},
+	{
+		"id": 432023,
+		"city": "Sede Nova",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 2704
+	},
+	{
+		"id": 432026,
+		"city": "Segredo",
+		"status": "Calamidade",
+		"affected_pop": 45,
+		"total_pop": 6009
+	},
+	{
+		"id": 432030,
+		"city": "Selbach",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 5107
+	},
+	{
+		"id": 432032,
+		"city": "Senador Salgado Filho",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2673
+	},
+	{
+		"id": 432035,
+		"city": "Sentinela do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5306
+	},
+	{
+		"id": 432040,
+		"city": "Serafina Corrêa",
+		"status": "Emergência",
+		"affected_pop": 2560,
+		"total_pop": 16961
+	},
+	{
+		"id": 432045,
+		"city": "Sério",
+		"status": "Emergência",
+		"affected_pop": 98,
+		"total_pop": 1941
+	},
+	{
+		"id": 432050,
+		"city": "Sertão",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5541
+	},
+	{
+		"id": 432055,
+		"city": "Sertão Santana",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 5863
+	},
+	{
+		"id": 432057,
+		"city": "Sete de Setembro",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 1830
+	},
+	{
+		"id": 432060,
+		"city": "Severiano de Almeida",
+		"status": "Calamidade",
+		"affected_pop": 247,
+		"total_pop": 3406
+	},
+	{
+		"id": 432065,
+		"city": "Silveira Martins",
+		"status": "Calamidade",
+		"affected_pop": 228,
+		"total_pop": 2028
+	},
+	{
+		"id": 432067,
+		"city": "Sinimbu",
+		"status": "Calamidade",
+		"affected_pop": 1176,
+		"total_pop": 8578
+	},
+	{
+		"id": 432070,
+		"city": "Sobradinho",
+		"status": "Calamidade",
+		"affected_pop": 2946,
+		"total_pop": 14226
+	},
+	{
+		"id": 432080,
+		"city": "Soledade",
+		"status": "Emergência",
+		"affected_pop": 1345,
+		"total_pop": 29991
+	},
+	{
+		"id": 432085,
+		"city": "Tabaí",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4461
+	},
+	{
+		"id": 432090,
+		"city": "Tapejara",
+		"status": "Não Homologado",
+		"affected_pop": 7,
+		"total_pop": 24557
+	},
+	{
+		"id": 432100,
+		"city": "Tapera",
+		"status": "Emergência",
+		"affected_pop": 80,
+		"total_pop": 10592
+	},
+	{
+		"id": 432110,
+		"city": "Tapes",
+		"status": "Emergência",
+		"affected_pop": 615,
+		"total_pop": 14695
+	},
+	{
+		"id": 432120,
+		"city": "Taquara",
+		"status": "Calamidade",
+		"affected_pop": 2907,
+		"total_pop": 53242
+	},
+	{
+		"id": 432130,
+		"city": "Taquari",
+		"status": "Calamidade",
+		"affected_pop": 2579,
+		"total_pop": 25198
+	},
+	{
+		"id": 432132,
+		"city": "Taquaruçu do Sul",
+		"status": "Emergência",
+		"affected_pop": 48,
+		"total_pop": 3119
+	},
+	{
+		"id": 432135,
+		"city": "Tavares",
+		"status": "Emergência",
+		"affected_pop": 6,
+		"total_pop": 5212
+	},
+	{
+		"id": 432140,
+		"city": "Tenente Portela",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 14497
+	},
+	{
+		"id": 432143,
+		"city": "Terra de Areia",
+		"status": "Emergência",
+		"affected_pop": 109,
+		"total_pop": 10334
+	},
+	{
+		"id": 432145,
+		"city": "Teutônia",
+		"status": "Emergência",
+		"affected_pop": 625,
+		"total_pop": 32797
+	},
+	{
+		"id": 432146,
+		"city": "Tio Hugo",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 3267
+	},
+	{
+		"id": 432147,
+		"city": "Tiradentes do Sul",
+		"status": "Emergência",
+		"affected_pop": 28,
+		"total_pop": 5129
+	},
+	{
+		"id": 432149,
+		"city": "Toropi",
+		"status": "Emergência",
+		"affected_pop": 23,
+		"total_pop": 2554
+	},
+	{
+		"id": 432150,
+		"city": "Torres",
+		"status": "Não Homologado",
+		"affected_pop": 27,
+		"total_pop": 41751
+	},
+	{
+		"id": 432160,
+		"city": "Tramandaí",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 54387
+	},
+	{
+		"id": 432162,
+		"city": "Travesseiro",
+		"status": "Calamidade",
+		"affected_pop": 1098,
+		"total_pop": 2152
+	},
+	{
+		"id": 432163,
+		"city": "Três Arroios",
+		"status": "Emergência",
+		"affected_pop": 146,
+		"total_pop": 2591
+	},
+	{
+		"id": 432166,
+		"city": "Três Cachoeiras",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 10962
+	},
+	{
+		"id": 432170,
+		"city": "Três Coroas",
+		"status": "Calamidade",
+		"affected_pop": 9678,
+		"total_pop": 24425
+	},
+	{
+		"id": 432180,
+		"city": "Três de Maio",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 24916
+	},
+	{
+		"id": 432183,
+		"city": "Três Forquilhas",
+		"status": "Emergência",
+		"affected_pop": 10,
+		"total_pop": 2760
+	},
+	{
+		"id": 432185,
+		"city": "Três Palmeiras",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 4716
+	},
+	{
+		"id": 432190,
+		"city": "Três Passos",
+		"status": "Emergência",
+		"affected_pop": 13,
+		"total_pop": 25436
+	},
+	{
+		"id": 432195,
+		"city": "Trindade do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 7556
+	},
+	{
+		"id": 432200,
+		"city": "Triunfo",
+		"status": "Calamidade",
+		"affected_pop": 7249,
+		"total_pop": 27498
+	},
+	{
+		"id": 432210,
+		"city": "Tucunduva",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 5542
+	},
+	{
+		"id": 432215,
+		"city": "Tunas",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 3681
+	},
+	{
+		"id": 432218,
+		"city": "Tupanci do Sul",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1374
+	},
+	{
+		"id": 432220,
+		"city": "Tupanciretã",
+		"status": "Emergência",
+		"affected_pop": 1935,
+		"total_pop": 20005
+	},
+	{
+		"id": 432225,
+		"city": "Tupandi",
+		"status": "Emergência",
+		"affected_pop": 9,
+		"total_pop": 5029
+	},
+	{
+		"id": 432230,
+		"city": "Tuparendi",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 8363
+	},
+	{
+		"id": 432232,
+		"city": "Turuçu",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3419
+	},
+	{
+		"id": 432234,
+		"city": "Ubiretama",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 1994
+	},
+	{
+		"id": 432235,
+		"city": "União da Serra",
+		"status": "Emergência",
+		"affected_pop": 19,
+		"total_pop": 1170
+	},
+	{
+		"id": 432237,
+		"city": "Unistalda",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 1995
+	},
+	{
+		"id": 432240,
+		"city": "Uruguaiana",
+		"status": "Emergência",
+		"affected_pop": 5172,
+		"total_pop": 117210
+	},
+	{
+		"id": 432250,
+		"city": "Vacaria",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 64197
+	},
+	{
+		"id": 432252,
+		"city": "Vale Verde",
+		"status": "Calamidade",
+		"affected_pop": 225,
+		"total_pop": 3150
+	},
+	{
+		"id": 432253,
+		"city": "Vale do Sol",
+		"status": "Emergência",
+		"affected_pop": 507,
+		"total_pop": 9897
+	},
+	{
+		"id": 432254,
+		"city": "Vale Real",
+		"status": "Emergência",
+		"affected_pop": 105,
+		"total_pop": 6058
+	},
+	{
+		"id": 432255,
+		"city": "Vanini",
+		"status": "Não Homologado",
+		"affected_pop": 0,
+		"total_pop": 2004
+	},
+	{
+		"id": 432260,
+		"city": "Venâncio Aires",
+		"status": "Calamidade",
+		"affected_pop": 8618,
+		"total_pop": 68763
+	},
+	{
+		"id": 432270,
+		"city": "Vera Cruz",
+		"status": "Calamidade",
+		"affected_pop": 845,
+		"total_pop": 26710
+	},
+	{
+		"id": 432280,
+		"city": "Veranópolis",
+		"status": "Calamidade",
+		"affected_pop": 1445,
+		"total_pop": 24021
+	},
+	{
+		"id": 432285,
+		"city": "Vespasiano Correa",
+		"status": "Calamidade",
+		"affected_pop": 108,
+		"total_pop": 1818
+	},
+	{
+		"id": 432290,
+		"city": "Viadutos",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 4769
+	},
+	{
+		"id": 432300,
+		"city": "Viamão",
+		"status": "Emergência",
+		"affected_pop": 2268,
+		"total_pop": 224112
+	},
+	{
+		"id": 432310,
+		"city": "Vicente Dutra",
+		"status": "Emergência",
+		"affected_pop": 22,
+		"total_pop": 4665
+	},
+	{
+		"id": 432320,
+		"city": "Victor Graeff",
+		"status": "Emergência",
+		"affected_pop": 4,
+		"total_pop": 2780
+	},
+	{
+		"id": 432330,
+		"city": "Vila Flores",
+		"status": "Emergência",
+		"affected_pop": 2,
+		"total_pop": 3646
+	},
+	{
+		"id": 432335,
+		"city": "Vila Lângaro",
+		"status": "Não Homologado",
+		"affected_pop": 3,
+		"total_pop": 2079
+	},
+	{
+		"id": 432340,
+		"city": "Vila Maria",
+		"status": "Emergência",
+		"affected_pop": 540,
+		"total_pop": 4413
+	},
+	{
+		"id": 432345,
+		"city": "Vila Nova do Sul",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 3863
+	},
+	{
+		"id": 432350,
+		"city": "Vista Alegre",
+		"status": "Emergência",
+		"affected_pop": 0,
+		"total_pop": 2660
+	},
+	{
+		"id": 432360,
+		"city": "Vista Alegre do Prata",
+		"status": "Emergência",
+		"affected_pop": 3,
+		"total_pop": 1590
+	},
+	{
+		"id": 432370,
+		"city": "Vista Gaúcha",
+		"status": "Emergência",
+		"affected_pop": 7,
+		"total_pop": 2783
+	},
+	{
+		"id": 432375,
+		"city": "Vitória das Missões",
+		"status": "Emergência",
+		"affected_pop": 41,
+		"total_pop": 3260
+	},
+	{
+		"id": 432377,
+		"city": "Westfália",
+		"status": "Emergência",
+		"affected_pop": 15,
+		"total_pop": 3098
+	},
+	{
+		"id": 432380,
+		"city": "Xangri-lá",
+		"status": "Não Homologado",
+		"affected_pop": 7,
+		"total_pop": 16463
+	}
+]
