@@ -1,13 +1,12 @@
 <script>
+	import { geoPath, geoOrthographic, scaleLinear } from 'd3';
 	import southAmerica from '../data/south-america.json';
 	import RsCities from '../data/rs-mun.json';
 	import affectedPopulation from '../data/affected_pop.json';
-	import { geoPath, geoOrthographic, scaleLinear } from 'd3';
 	export let step;
 
 	let countries = southAmerica.features;
 	let rsCities = RsCities.features;
-	console.log(rsCities);
 
 	let traitedRsCities = [];
 
@@ -32,9 +31,15 @@
 	$: width = 400;
 	$: height = 400;
 
+	const md_breakpoint = 688;
+	const sm_breakpoint = 583;
+
+	$: scale_factor = width >= sm_breakpoint ? 4.3 : 5.5;
+	$: rotate_factor = width >= md_breakpoint ? [51, 30.5, 0] : [53, 30.5, 0];
+
 	$: projection = geoOrthographic()
-		.scale(width * 4.6)
-		.rotate([51, 30.5, 0])
+		.scale(width * scale_factor)
+		.rotate(rotate_factor)
 		.translate([width / 2, height / 2]);
 
 	$: path = geoPath(projection);
@@ -53,16 +58,18 @@
 	};
 </script>
 
-<div class="flex flex-col justify-center items-center gap-8">
+<div
+	class="flex flex-col justify-center items-center gap-4 w-full lg:max-w-5xl px-4"
+>
 	<h2
 		class={step === 5
-			? 'font-mansalva text-4xl text-secondary opacity-0'
-			: 'font-mansalva text-4xl text-secondary'}
+			? 'font-mansalva text-xl sm:text-2xl lg:text-4xl text-secondary opacity-0'
+			: 'font-mansalva text-xl sm:text-2xl lg:text-4xl text-secondary'}
 	>
 		Impacted territories in Rio Grande do Sul
 	</h2>
 	<div
-		class="w-5xl h-[80vh] border border-24 border-white bg-[#14004F]"
+		class="w-full max-w-5xl h-[60vh] md:h-[80vh] border border-12 md:border-24 border-white bg-[#14004F] mx-8"
 		bind:clientWidth={width}
 		bind:clientHeight={height}
 	>
@@ -118,10 +125,11 @@
 
 			<!-- Tooltip -->
 			<g
-				transform="translate({width / 2}, {height - 100})"
+				transform="translate({width - 20}, {height - 100})"
 				font-size="24px"
 				fill="#FEF6EB"
-				class="font-mansalva"
+				class="font-mansalva opacity-0 md:opacity-100"
+				text-anchor="end"
 			>
 				{#if selectedCity}
 					<text
@@ -154,8 +162,10 @@
 
 			<!-- Scale -->
 			<g
-				transform="translate({(width / 3) * 2}, {height / 2})"
-				font-size="16px"
+				transform="translate({(width / 3) * 2}, {width < md_breakpoint
+					? height - 60
+					: height / 2})"
+				class="text-xs md:text-base"
 				fill="#FEF6EB"
 				><rect
 					x="0"
@@ -175,9 +185,29 @@
 				<text
 					x={width / 8}
 					y="40"
-					text-anchor="middle">% of the population impacted</text
+					text-anchor="middle">% of the pop. impacted</text
 				>
 			</g>
 		</svg>
+	</div>
+
+	<!-- Mobile description -->
+	<div class="inline md:hidden">
+		{#if selectedCity}
+			<p>
+				{selectedCity.properties.name}:
+				{#if selectedCity.properties.affected_pop === 0}No population affected{:else}{selectedCity
+						.properties.affected_pop} affected people ({get_part_of_affected(
+						selectedCity,
+					)}%){/if}
+			</p>
+		{:else}
+			<p class="font-mansalva text-lg">
+				970 788 people were affected in all state, that is 8.9% of the
+				population.
+			</p>
+			<p class="text-sm">
+				Goes on the desktop version of the site to check a specific city.
+			</p>{/if}
 	</div>
 </div>

@@ -1,0 +1,18 @@
+[
+	{
+		"value": 535,
+		"description": "Flood peak in 2024 (5.35 m)"
+	},
+	{
+		"value": 476,
+		"description": "Flood peak in 1941"
+	},
+	{
+		"value": 360,
+		"description": "Flood threshold"
+	},
+	{
+		"value": 315,
+		"description": "Alert threshold"
+	}
+]

@@ -1,22 +1,26 @@
 <script>
 	import { scaleLinear } from 'd3';
 	import { tweened } from 'svelte/motion';
+	import { cubicOut } from 'svelte/easing';
+
 	export let step;
 
 	$: width = 992;
 	$: height = 150;
 
 	$: yScale = scaleLinear().domain([0, 800]).range([height, 0]);
-	let level = 0;
 
 	const tY = tweened(undefined, {
 		delay: 0,
-		duration: 1000,
+		duration: 2000,
+		easing: cubicOut,
 	});
 
 	$: {
-		if (step == undefined || step < 1) {
+		if (step == undefined) {
 			tY.set(yScale(0));
+		} else if (step < 1) {
+			tY.set(yScale(121));
 		} else if (step >= 1 && step < 6) {
 			tY.set(yScale(550));
 		} else {

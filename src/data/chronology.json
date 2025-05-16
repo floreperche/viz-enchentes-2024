@@ -1,0 +1,37 @@
+[
+	{
+		"value": 0,
+		"date": "29 April",
+		"description": "Start of heavy rains",
+		"alignment": "start",
+		"display_step": 0
+	},
+	{
+		"value": 6,
+		"date": "05 May",
+		"description": "Peak of the flood",
+		"alignment": "start",
+		"display_step": 1
+	},
+	{
+		"value": 15,
+		"date": "14 May",
+		"description": "Second peak of the flood",
+		"alignment": "start",
+		"display_step": 2
+	},
+	{
+		"value": 35,
+		"date": "03 June",
+		"description": "Water falls below flood threshold",
+		"alignment": "end",
+		"display_step": 3
+	},
+	{
+		"value": 39,
+		"date": "06 June",
+		"description": "Water falls below the alert threshold",
+		"alignment": "end",
+		"display_step": 4
+	}
+]

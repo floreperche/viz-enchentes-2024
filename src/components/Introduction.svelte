@@ -2,18 +2,23 @@
 	export let step;
 </script>
 
-<div class="flex flex-col text-2xl gap-8">
+<div class="flex flex-col text-lg sm:text-xl lg:text-2xl gap-8">
 	{#if step <= 1 || step === undefined}
 		<p>
-			Lorem ipsum dolor sit amet consectetur. Id id urna massa viverra mi vitae.
-			Orci mattis eu et elementum malesuada pellentesque a convallis. Vulputate
-			eu odio tellus tortor blandit. Hendrerit elit purus phasellus eget risus.
-			A dictum sodales aliquet placerat ac.
+			At the end of April 2024, <span class="font-mansalva text-secondary"
+				>heavy rainfalls</span
+			>
+			affected more than half of the state of Rio Grande do Sul, in the South of
+			Brazil. As a consequence, river levels rose sharply, causing
+			<span class="font-mansalva text-secondary">massive flooding</span> in many
+			municipalities.
 		</p>
 		<p>
-			Vel pellentesque id mi sit. Et a elit neque etiam molestie ornare ipsum
-			consequat. Felis purus pellentesque nulla erat amet. Amet diam euismod
-			pellentesque curabitur enim vulputate.
+			In Porto Alegre, the state capital, the levels of the historic 1941 flood
+			were exceeded within days. In 2024, <span
+				class="font-mansalva text-secondary"
+				>the Guaíba river rose to more than two meters above the flood level.</span
+			>
 		</p>
 	{/if}
 </div>
